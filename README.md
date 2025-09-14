@@ -11,7 +11,7 @@
 I'm a passionate **Machine Learning Engineer** and **Robotics enthusiast** who recently graduated with a Master's in Engineering Sciences with a focus on Robotics from the **University at Buffalo**. 
 
 🔬 **Currently working as Research Assistant** in the Optical and Ultrasonic Imaging Lab @ UB  
-🎯 **Passionate about** AI, Machine Learning, Computer Vision, and Robotics  
+🎯 **Passionate about** Agentic AI, LLM, RAG, Machine Learning, Computer Vision, and Robotics  
 💡 **Constantly exploring** the intersections of cutting-edge technologies
 
 ---
